@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='fictive',
-   version='1.1.2',
+   version='3.2.2',
    description='Custom plots using matplotlib.',
    author='r Kumar',
    author_email='',
