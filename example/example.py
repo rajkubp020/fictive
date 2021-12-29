@@ -24,3 +24,5 @@ legend_on(ax=ax)
 plt.legend(loc=3)
 plt.savefig('./fictive_.png'.format(83),dpi=300,bbox_inches='tight')
 plt.show()
+
+name = 'Suresh'
